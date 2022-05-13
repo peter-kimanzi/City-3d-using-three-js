@@ -4,6 +4,6 @@ city animation using three js library
 
 # Technologies used
 
-* Html
+* HTML
 * CSS
 
