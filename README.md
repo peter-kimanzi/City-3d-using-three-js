@@ -2,5 +2,5 @@
 
 city animation using three js library
 
-# Technologies use
+# Technologies used
 
