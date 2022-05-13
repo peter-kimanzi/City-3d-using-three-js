@@ -9,4 +9,4 @@ city animation using three js library
 * JavaScript
 * Three js
 
-# Live website 
+# Live website can be viewed 
