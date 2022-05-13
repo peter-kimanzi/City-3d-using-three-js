@@ -12,3 +12,5 @@ city animation using three js library
 # Live website can be viewed here
 
 https://peter-kimanzi.github.io/City-3d-using-three-js/
+
+# Dont forget to star repo
