@@ -13,4 +13,3 @@ city animation using three js library
 
 https://peter-kimanzi.github.io/City-3d-using-three-js/
 
-# 
